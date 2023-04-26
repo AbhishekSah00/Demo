@@ -1,0 +1,29 @@
+h1{
+	background: lightskyblue;
+	color: black;
+	padding: 8px;
+	margin: 1px;
+	font-family:Arial black ;
+    text-align: center;
+
+
+}
+p{
+	background-color: blanchedalmond;
+	color:black;
+	padding: 5px;
+	margin: 5px;
+
+
+
+}
+body{
+	background-color: lightskyblue;
+
+}
+img{
+	height: 100px;
+/*	width: 50%;*/
+
+
+}
