@@ -1,0 +1,37 @@
+h1{
+	background-color: lightpink;
+	color: black;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+
+
+
+}
+body{
+	background-color: url("https://wallpapers.com/images/featured/33q6a18khxgta4ll.jpg");
+
+}
+link{
+	color: red;
+
+}
+p{
+	font-family: verdana;
+	font-size: 20px;
+
+}
+#abc{
+	text-align: center;
+	color: darkred;
+}
+.center{
+	text-align: center;
+	color: blueviolet;
+
+}
+h2.center{
+	color: darkred;
+
+
+}
